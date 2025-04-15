@@ -5,7 +5,7 @@
 <!-- START Visitor Count -->
 <div align="center">
 <h2 align="centre">Visitors From MAY 26 2023</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dagmawi77}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alazar80}/count.svg" /></p> 
 <br>
 </div>
 
@@ -30,7 +30,7 @@ I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stac
 - 🌱 I am good in Dart,Flutter,devops,python,C,git and github,fullstack development.
 - 😊 I’m looking for help with open source projects,Team Development,freelancer and entry-level opportunities.
 - 💼 Current Job: System Administrator In Addis Ababa Water & Sewerage Autority and Develop deferent Platform like mobile apps and websites. 
-- 📫 You can [view my resume](#) and contact me by emailing dagmawiletarik@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing alazareshetu80@gmail.com.
 - 
 ---
 <p align="center">
