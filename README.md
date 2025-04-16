@@ -26,7 +26,7 @@ I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stac
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxethiopia.com/) Class of 2022 Cohort 9.I have many cerification on IT stuff .
+- 💡 Fun fact: I'm currently studying at ALX Africa [School of Software Engineering](https://www.alxethiopia.com/) Class of 2025 Cohort 9.I have many cerification on IT stuff .
 - 🌱 I am good in Dart,Flutter,devops,python,C,git and github,fullstack development.
 - 😊 I’m looking for help with open source projects,Team Development,freelancer and entry-level opportunities.
 - 💼 Current Job: System Administrator In Addis Ababa Water & Sewerage Autority and Develop deferent Platform like mobile apps and websites. 
