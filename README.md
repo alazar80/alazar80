@@ -19,7 +19,7 @@
 
 <!-- END My Github Profile Trophy SECTION -->
 
-I'm a  Computer Scientist,Software Engineer, System Adminstorator, and Full stack Developer who is currently learning and building as a Software Engnnering student at [ALX](https://alxafrica.com). I'm passionate about sharing knowledge, documentation,problem sloving,coding,web engineering, researching and others.
+I'm a Computer Scientist, Software Engineer, System Administrator, and Full Stack Developer. I'm passionate about sharing knowledge, documentation, problem solving, coding, web engineering, researching, and more. I'm continuously learning and building in the field of Software Engineering.
 
 ### Glad to see you here! &nbsp;
 
