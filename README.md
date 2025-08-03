@@ -4,7 +4,7 @@
 
 <!-- START Visitor Count -->
 <div align="center">
-<h2 align="centre">Visitors From MAY 26 2023</h2>  
+<h2 align="centre">Visitors From JUNE 26 2025</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alazar80}/count.svg" /></p> 
 <br>
 </div>
